@@ -28,6 +28,10 @@ This repository contains my notes and code examples about the **Pandas** library
 ```text
 python-pandas-notes/
 │
+├── 📁 sample_data/
+│   ├── titanic passenger list.csv
+│   └── Sample - Superstore.xls
+│
 ├── 01_pandas_notes.ipynb
 └── README.md
 ```
