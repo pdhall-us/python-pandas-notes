@@ -29,7 +29,7 @@ This repository contains my notes and code examples about the **Pandas** library
 python-pandas-notes/
 │
 ├── 📁 sample_data/
-│   ├── titanic passenger list.csv
+│   ├── titanic passenger list.csv  
 │   └── Sample - Superstore.xls
 │
 ├── 01_pandas_notes.ipynb
@@ -66,6 +66,7 @@ jupyter notebook
 
 ---
 
+
 ## 🛠️ Tools & Technologies
 
 <p align="left">
@@ -79,5 +80,17 @@ jupyter notebook
   &nbsp;&nbsp;&nbsp;
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
   </a>
 </p>
